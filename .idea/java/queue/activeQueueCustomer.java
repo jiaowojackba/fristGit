@@ -4,7 +4,7 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 
 import javax.jms.*;
 import java.io.IOException;
-
+//啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
 public class activeQueueCustomer {
 
     public static void main(String[] args) throws JMSException, IOException {
